@@ -81,9 +81,8 @@ nav li {
 nav a {
   color: inherit;
   text-decoration: none;
-  padding: 10px 15px;
+  padding: 10px 20px;
   justify-content: center;
-  margin-top: 10px;
 }
 
 nav a:hover {
