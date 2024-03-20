@@ -82,11 +82,10 @@ nav li {
 nav a {
   color: inherit;
   display: flex;
-  top: 1;
   text-decoration: none;
   padding: 10px 15px;
   align-items: center;
-  justify-content: center;
+  justify-items: center;
 }
 
 nav a:hover, nav a:focus {
