@@ -83,11 +83,10 @@ nav a {
   color: inherit;
   text-decoration: none;
   padding: 15px 15px;
-  align-items: center;
   justify-items: center;
 }
 
-nav a:hover, nav a:focus {
+nav a:hover {
   background-color: #333;
   color: #fff;
   border-radius: 10px;
