@@ -83,7 +83,7 @@ nav a {
   text-decoration: none;
   padding: 10px 15px;
   justify-content: center;
-  align-items: center;
+  top: 1;
 }
 
 nav a:hover {
