@@ -178,7 +178,7 @@ header .header-content h1 {
   font-size: 3rem;
   font-weight: 700;
   margin-bottom: 1rem;
-  overflow: hidden;
+  overflow-x: hidden;
   border-right: solid 2px #ffffff;
   white-space: nowrap;
   animation: write 1.5s linear 0s 1 normal both, blink 1s infinite;
@@ -366,7 +366,7 @@ header .header-content p {
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1); 
   transition: 0.4s;
   position: relative; 
-  overflow: hidden; 
+  overflow-x: hidden; 
 }
 
 .portfolio-item img {
@@ -434,7 +434,7 @@ header .header-content p {
   background: linear-gradient(135deg, #333333, #1a1a1a);
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
-  overflow: hidden;
+  overflow-x: hidden;
   transition: transform 0.3s ease;
 }
 
@@ -553,7 +553,7 @@ header .header-content p {
   height: 10px;
   border-radius: 5px;
   background-color: #3a3a3a;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 .light-mode .progress-bar {
