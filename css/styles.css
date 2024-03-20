@@ -10,7 +10,8 @@ body {
   justify-content: center;
   min-height: 100vh;
   transition: 0.4s;
-  overflow: hidden;
+  overflow-x: hidden; 
+  overflow-y: hidden;
 }
 
 body.light-mode {
